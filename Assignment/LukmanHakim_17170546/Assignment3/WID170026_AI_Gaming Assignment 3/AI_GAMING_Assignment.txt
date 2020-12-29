@@ -1,0 +1,7 @@
+This is an maze generating assignment for maze generating
+It uses Unity as its platform
+This project uses recursive backtracking algorithm.
+It generates maze randomly according to height and width 
+that is determined randomly.
+The fitness function is time. It generates random maze 
+according to its cell.
